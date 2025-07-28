@@ -1,36 +1,19 @@
-# Scene_creation_Unity_Hub – "Unity First Step" by Kaviya Sri K S
+Unity Project Portfolio – "First Step"
 
-## 📌 Overview
-This project was built during my Unity Essentials pathway (non-programming track). It demonstrates my hands-on experience using the Unity Editor to create, configure, and test interactive 3D environments.
-
----
-## 🛠️ Skills Demonstrated
-- Unity Editor Navigation: Scene, Game, Hierarchy, Inspector
-- GameObject Placement and Environment Layout
-- Camera Framing & Field of View Adjustments
-- Lighting Setup: Ambient and Directional Lighting
-- UI Components: Panels, Buttons, Text
-- Spatial Audio Configuration
-- Scene Flow Design (multi-level experience)
-- Build Export: Windows Standalone Executable
----
-
-## 🔗 Build Demo
-
-Download and run the game:  
-📦 https://github.com/kaviyashankar/Scene_Creation_Unity_Hub/releases/download/v1.0/FirstUnityGame.zip
+This Unity project showcases 3D scene building, environment setup, and UI design using the Unity Editor (no coding).  
 
 ---
 
-## 🧠 Learnings
-
-This project gave me deep insight into Unity’s editor workflows — scene design, UI layout, GameObject hierarchy, and basic testing flow via Play Mode. It bridges my QA skills with technical understanding of game environments.
+Skills Demonstrated
+- Unity Editor navigation
+- Scene lighting and prefab arrangement
+- UI layout and text components
+- Camera setup and perspective adjustment
+- Ambient audio setup and basic scene transitions
 
 ---
 
-## 🙋‍♀️ About Me
-**Kaviya Sri K S**  
-QA Engineer | Game QA Enthusiast  
-Email: kaviyashankar28@gmail.com  
-LinkedIn: https://www.linkedin.com/in/kaviya-sri-k-s/  
+Prepared by: Kaviya Sri K S
+🔗 LinkedIn Profile
 
+> Built using the [Unity Essentials Pathway (Learn.Unity.com)](https://learn.unity.com/pathway/unity-essentials)
