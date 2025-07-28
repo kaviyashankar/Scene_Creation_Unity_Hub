@@ -14,6 +14,6 @@ Skills Demonstrated
 ---
 
 Prepared by: Kaviya Sri K S
-🔗 LinkedIn Profile
+🔗 LinkedIn Profile : https://www.linkedin.com/in/kaviya-sri-k-s/
 
 > Built using the [Unity Essentials Pathway (Learn.Unity.com)](https://learn.unity.com/pathway/unity-essentials)
